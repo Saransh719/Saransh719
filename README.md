@@ -16,13 +16,13 @@ Languages: JavaScript, Python, C/C++
 * 📱 First real-life useful app, a big stepping stone in my Android development journey
 
 ## 🚀 What I’m Exploring
-React Native in TypeScript
-Data structures and algorithms in C/C++
-MongoDB
+* React Native in TypeScript
+* Data structures and algorithms in C/C++
+* MongoDB
 
 ## 📫 Contact Me
-Email: saranshsapra08@gmail.com
-LinkedIn: www.linkedin.com/in/saransh-sapra
+* Email: saranshsapra08@gmail.com
+* LinkedIn: www.linkedin.com/in/saransh-sapra
 
 
 <!--
