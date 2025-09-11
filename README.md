@@ -1,4 +1,29 @@
-## Hi there 👋
+# Hi, I am Saransh Sapra👋
+
+## 👨‍💻 About Me
+
+Hey! I’m a college student passionate about software development, especially Android app development. I love creating apps that help solve real problems and make life a little easier.
+
+## 🔧 Tech Stack
+Frontend: Kotlin(JetPack Compose), React
+Backend: ExpressJS
+Databases/Services: SQLite, MySql
+Languages: JavaScript, Python, C/C++
+
+## 🧩 Featured Projects
+* 🚀 Built Blood Sugar Recorder App – Kotlin + Jetpack Compose frontend, Room (SQLite) backend
+* ⏰ Implemented AlarmManager + Notifications for daily health reminders
+* 📱 First real-life useful app, a big stepping stone in my Android development journey
+
+## 🚀 What I’m Exploring
+React Native in TypeScript
+Data structures and algorithms in C/C++
+MongoDB
+
+## 📫 Contact Me
+Email: saranshsapra08@gmail.com
+LinkedIn: www.linkedin.com/in/saransh-sapra
+
 
 <!--
 **Saransh719/Saransh719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
