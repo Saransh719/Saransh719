@@ -11,7 +11,8 @@ Databases/Services: SQLite, MySql
 Languages: JavaScript, Python, C/C++
 
 ## 🧩 Featured Projects
-* 🚀 Built Blood Sugar Recorder App – Kotlin + Jetpack Compose frontend, Room (SQLite) backend
+###  🚀 Blood Sugar Recorder App 
+* Kotlin + Jetpack Compose frontend, Room (SQLite) backend
 * ⏰ Implemented AlarmManager + Notifications for daily health reminders
 * 📱 First real-life useful app, a big stepping stone in my Android development journey
 
