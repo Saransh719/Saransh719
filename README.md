@@ -5,21 +5,14 @@
 Hey! I’m a college student passionate about software development, especially Android app development. I love creating apps that help solve real problems and make life a little easier.
 
 ## 🔧 Tech Stack
-Frontend: Kotlin(JetPack Compose), React
-Backend: ExpressJS
-Databases/Services: SQLite, MySql
-Languages: JavaScript, Python, C/C++
-
-## 🧩 Featured Projects
-###  🚀 Blood Sugar Recorder App 
-* Kotlin + Jetpack Compose frontend, Room (SQLite) backend
-* ⏰ Implemented AlarmManager + Notifications for daily health reminders
-* 📱 First real-life useful app, a big stepping stone in my Android development journey
+Languages: C, C++, Java, Dart, Typescript, Javascipt, Kotlin \n
+Frameworks: Flutter, React Native, Jetpack Compose, Express
+Databases/Services: Firebase, MySQL, MongoDB, PostgreSQL
+Others: Docker, Expo, Git, Linux
 
 ## 🚀 What I’m Exploring
-* React Native in TypeScript
 * Data structures and algorithms in C/C++
-* MongoDB
+* Further enhancing skills in Flutter
 
 ## 📫 Contact Me
 * Email: saranshsapra08@gmail.com
